@@ -4,6 +4,7 @@
   "private": true,
   "description": "Controlled test case: a project on @solana/kit only, for dependency-preflight",
   "dependencies": {
-    "@solana/kit": "8.6.0"
+    "@solana/kit": "8.6.0",
+    "nanoid": "3.3.4"
   }
 }
